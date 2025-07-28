@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Revathi054
+- 👋 Hi, I’m @Revathi
 - 👀 I’m interested in programming
 - 🌱 I’m currently pursuing BTech
 
